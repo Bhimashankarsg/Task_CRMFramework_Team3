@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="14" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Report configuration]]>
+    </line>
+    <line>
+      <![CDATA[=== connect to DB , report config  BS ===]]>
+    </line>
+    <line>
+      <![CDATA[=====Launch Browser BC=======]]>
+    </line>
+    <line>
+      <![CDATA[=== Login to application BM=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createOpp_Org_Test<=======START=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createOpp_Org_Test<=======END=====]]>
+    </line>
+    <line>
+      <![CDATA[==== Logout AM =====]]>
+    </line>
+    <line>
+      <![CDATA[==== close the Browser AC======]]>
+    </line>
+    <line>
+      <![CDATA[=====Launch Browser BC=======]]>
+    </line>
+    <line>
+      <![CDATA[=== Login to application BM=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createprodTest<=======START=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createprodTest<=======END=====]]>
+    </line>
+    <line>
+      <![CDATA[==== Logout AM =====]]>
+    </line>
+    <line>
+      <![CDATA[==== close the Browser AC======]]>
+    </line>
+    <line>
+      <![CDATA[=====Launch Browser BC=======]]>
+    </line>
+    <line>
+      <![CDATA[=== Login to application BM=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_CreateCalendarEvent_Test<=======START=====]]>
+    </line>
+    <line>
+      <![CDATA[pommeeting321]]>
+    </line>
+    <line>
+      <![CDATA[08]]>
+    </line>
+    <line>
+      <![CDATA[10]]>
+    </line>
+    <line>
+      <![CDATA[PM]]>
+    </line>
+    <line>
+      <![CDATA[09]]>
+    </line>
+    <line>
+      <![CDATA[20]]>
+    </line>
+    <line>
+      <![CDATA[PM]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_CreateCalendarEvent_Test<=======END=====]]>
+    </line>
+    <line>
+      <![CDATA[==== Logout AM =====]]>
+    </line>
+    <line>
+      <![CDATA[==== close the Browser AC======]]>
+    </line>
+    <line>
+      <![CDATA[=====Launch Browser BC=======]]>
+    </line>
+    <line>
+      <![CDATA[=== Login to application BM=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createLeads_Test<=======START=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createLeads_Test<=======END=====]]>
+    </line>
+    <line>
+      <![CDATA[==== Logout AM =====]]>
+    </line>
+    <line>
+      <![CDATA[==== close the Browser AC======]]>
+    </line>
+    <line>
+      <![CDATA[=====Launch Browser BC=======]]>
+    </line>
+    <line>
+      <![CDATA[=== Login to application BM=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createTroubleTickTest<=======START=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createTroubleTickTest<=======END=====]]>
+    </line>
+    <line>
+      <![CDATA[==== Logout AM =====]]>
+    </line>
+    <line>
+      <![CDATA[=== Login to application BM=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createTroubleTick_Edit_Test<=======START=====]]>
+    </line>
+    <line>
+      <![CDATA[====>practice_createTroubleTick_Edit_Test<=======END=====]]>
+    </line>
+    <line>
+      <![CDATA[==== Logout AM =====]]>
+    </line>
+    <line>
+      <![CDATA[==== close the Browser AC======]]>
+    </line>
+    <line>
+      <![CDATA[=== close DB, Report Backup AS ====]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-08T15:22:23 IST" name="Suite" finished-at="2024-11-08T15:24:11 IST" duration-ms="107766">
+    <groups>
+      <group name="regressiontest">
+        <method signature="practice_createTroubleTicketTest_TC2_ContactEdit_TC3.practice_createTroubleTick_Edit_Test()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" name="practice_createTroubleTick_Edit_Test" class="practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3"/>
+      </group> <!-- regressiontest -->
+      <group name="smoketest">
+        <method signature="practice_CreateCalendarEventTest_TC6.practice_CreateCalendarEvent_Test()[pri:0, instance:practice_CalendarEvent.practice_CreateCalendarEventTest_TC6@72d1ad2e]" name="practice_CreateCalendarEvent_Test" class="practice_CalendarEvent.practice_CreateCalendarEventTest_TC6"/>
+        <method signature="practice_createLeadsTest_TC4.practice_createLeads_Test()[pri:0, instance:practice_Leads.practice_createLeadsTest_TC4@2d7275fc]" name="practice_createLeads_Test" class="practice_Leads.practice_createLeadsTest_TC4"/>
+        <method signature="practice_CreateOpportunitiesWithOrgTest_TC5.practice_createOpp_Org_Test()[pri:0, instance:practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5@515aebb0]" name="practice_createOpp_Org_Test" class="practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5"/>
+        <method signature="practice_createproductTest_TC1.practice_createprodTest()[pri:0, instance:practice_Products.practice_createproductTest_TC1@595b007d]" name="practice_createprodTest" class="practice_Products.practice_createproductTest_TC1"/>
+        <method signature="practice_createTroubleTicketTest_TC2_ContactEdit_TC3.practice_createTroubleTickTest()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" name="practice_createTroubleTickTest" class="practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3"/>
+      </group> <!-- smoketest -->
+    </groups>
+    <test started-at="2024-11-08T15:22:23 IST" name="Test" finished-at="2024-11-08T15:24:11 IST" duration-ms="107766">
+      <class name="practice_Products.practice_createproductTest_TC1">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:practice_Products.practice_createproductTest_TC1@595b007d]" started-at="2024-11-08T15:22:49 IST" name="configBC" finished-at="2024-11-08T15:22:51 IST" duration-ms="2501" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Launch Browser BC=======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:practice_Products.practice_createproductTest_TC1@595b007d]" started-at="2024-11-08T15:22:51 IST" name="configBM" finished-at="2024-11-08T15:22:55 IST" duration-ms="3822" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=== Login to application BM=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="practice_createprodTest()[pri:0, instance:practice_Products.practice_createproductTest_TC1@595b007d]" started-at="2024-11-08T15:22:55 IST" name="practice_createprodTest" finished-at="2024-11-08T15:23:03 IST" duration-ms="8458" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====>practice_createprodTest<=======START=====]]>
+            </line>
+            <line>
+              <![CDATA[====>practice_createprodTest<=======END=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice_createprodTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:practice_Products.practice_createproductTest_TC1@595b007d]" started-at="2024-11-08T15:23:03 IST" name="configAM" finished-at="2024-11-08T15:23:05 IST" duration-ms="1558" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== Logout AM =====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:practice_Products.practice_createproductTest_TC1@595b007d]" started-at="2024-11-08T15:23:05 IST" name="configAC" finished-at="2024-11-08T15:23:05 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== close the Browser AC======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- practice_Products.practice_createproductTest_TC1 -->
+      <class name="practice_Leads.practice_createLeadsTest_TC4">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:practice_Leads.practice_createLeadsTest_TC4@2d7275fc]" started-at="2024-11-08T15:23:21 IST" name="configBC" finished-at="2024-11-08T15:23:23 IST" duration-ms="1468" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Launch Browser BC=======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:practice_Leads.practice_createLeadsTest_TC4@2d7275fc]" started-at="2024-11-08T15:23:23 IST" name="configBM" finished-at="2024-11-08T15:23:27 IST" duration-ms="4128" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=== Login to application BM=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="practice_createLeads_Test()[pri:0, instance:practice_Leads.practice_createLeadsTest_TC4@2d7275fc]" started-at="2024-11-08T15:23:27 IST" name="practice_createLeads_Test" finished-at="2024-11-08T15:23:36 IST" duration-ms="8668" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====>practice_createLeads_Test<=======START=====]]>
+            </line>
+            <line>
+              <![CDATA[====>practice_createLeads_Test<=======END=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice_createLeads_Test -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:practice_Leads.practice_createLeadsTest_TC4@2d7275fc]" started-at="2024-11-08T15:23:36 IST" name="configAM" finished-at="2024-11-08T15:23:37 IST" duration-ms="1550" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== Logout AM =====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:practice_Leads.practice_createLeadsTest_TC4@2d7275fc]" started-at="2024-11-08T15:23:37 IST" name="configAC" finished-at="2024-11-08T15:23:37 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== close the Browser AC======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- practice_Leads.practice_createLeadsTest_TC4 -->
+      <class name="practice_CalendarEvent.practice_CreateCalendarEventTest_TC6">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:practice_CalendarEvent.practice_CreateCalendarEventTest_TC6@72d1ad2e]" started-at="2024-11-08T15:23:05 IST" name="configBC" finished-at="2024-11-08T15:23:07 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Launch Browser BC=======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:practice_CalendarEvent.practice_CreateCalendarEventTest_TC6@72d1ad2e]" started-at="2024-11-08T15:23:07 IST" name="configBM" finished-at="2024-11-08T15:23:10 IST" duration-ms="3691" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=== Login to application BM=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="practice_CreateCalendarEvent_Test()[pri:0, instance:practice_CalendarEvent.practice_CreateCalendarEventTest_TC6@72d1ad2e]" started-at="2024-11-08T15:23:10 IST" name="practice_CreateCalendarEvent_Test" finished-at="2024-11-08T15:23:19 IST" duration-ms="9123" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====>practice_CreateCalendarEvent_Test<=======START=====]]>
+            </line>
+            <line>
+              <![CDATA[pommeeting321]]>
+            </line>
+            <line>
+              <![CDATA[08]]>
+            </line>
+            <line>
+              <![CDATA[10]]>
+            </line>
+            <line>
+              <![CDATA[PM]]>
+            </line>
+            <line>
+              <![CDATA[09]]>
+            </line>
+            <line>
+              <![CDATA[20]]>
+            </line>
+            <line>
+              <![CDATA[PM]]>
+            </line>
+            <line>
+              <![CDATA[====>practice_CreateCalendarEvent_Test<=======END=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice_CreateCalendarEvent_Test -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:practice_CalendarEvent.practice_CreateCalendarEventTest_TC6@72d1ad2e]" started-at="2024-11-08T15:23:19 IST" name="configAM" finished-at="2024-11-08T15:23:21 IST" duration-ms="1576" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== Logout AM =====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:practice_CalendarEvent.practice_CreateCalendarEventTest_TC6@72d1ad2e]" started-at="2024-11-08T15:23:21 IST" name="configAC" finished-at="2024-11-08T15:23:21 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== close the Browser AC======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- practice_CalendarEvent.practice_CreateCalendarEventTest_TC6 -->
+      <class name="practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5@515aebb0]" started-at="2024-11-08T15:22:23 IST" name="configBS" finished-at="2024-11-08T15:22:23 IST" duration-ms="595" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=== connect to DB , report config  BS ===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5@515aebb0]" started-at="2024-11-08T15:22:23 IST" name="configBC" finished-at="2024-11-08T15:22:29 IST" duration-ms="6245" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Launch Browser BC=======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5@515aebb0]" started-at="2024-11-08T15:22:30 IST" name="configBM" finished-at="2024-11-08T15:22:35 IST" duration-ms="5033" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=== Login to application BM=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="practice_createOpp_Org_Test()[pri:0, instance:practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5@515aebb0]" started-at="2024-11-08T15:22:35 IST" name="practice_createOpp_Org_Test" finished-at="2024-11-08T15:22:47 IST" duration-ms="12148" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====>practice_createOpp_Org_Test<=======START=====]]>
+            </line>
+            <line>
+              <![CDATA[====>practice_createOpp_Org_Test<=======END=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice_createOpp_Org_Test -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5@515aebb0]" started-at="2024-11-08T15:22:47 IST" name="configAM" finished-at="2024-11-08T15:22:48 IST" duration-ms="1656" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== Logout AM =====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5@515aebb0]" started-at="2024-11-08T15:22:48 IST" name="configAC" finished-at="2024-11-08T15:22:49 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== close the Browser AC======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5@515aebb0]" started-at="2024-11-08T15:24:11 IST" name="configAS" finished-at="2024-11-08T15:24:11 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=== close DB, Report Backup AS ====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- practice_Opportunities.practice_CreateOpportunitiesWithOrgTest_TC5 -->
+      <class name="practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" started-at="2024-11-08T15:23:37 IST" name="configBC" finished-at="2024-11-08T15:23:39 IST" duration-ms="1526" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Launch Browser BC=======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" started-at="2024-11-08T15:23:39 IST" name="configBM" finished-at="2024-11-08T15:23:43 IST" duration-ms="3766" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=== Login to application BM=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="practice_createTroubleTickTest()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" started-at="2024-11-08T15:23:43 IST" name="practice_createTroubleTickTest" finished-at="2024-11-08T15:23:50 IST" duration-ms="7829" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====>practice_createTroubleTickTest<=======START=====]]>
+            </line>
+            <line>
+              <![CDATA[====>practice_createTroubleTickTest<=======END=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice_createTroubleTickTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" started-at="2024-11-08T15:23:50 IST" name="configAM" finished-at="2024-11-08T15:23:52 IST" duration-ms="1568" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== Logout AM =====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" started-at="2024-11-08T15:23:52 IST" name="configBM" finished-at="2024-11-08T15:23:55 IST" duration-ms="2942" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=== Login to application BM=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="practice_createTroubleTick_Edit_Test()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" started-at="2024-11-08T15:23:55 IST" name="practice_createTroubleTick_Edit_Test" finished-at="2024-11-08T15:24:09 IST" duration-ms="14172" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====>practice_createTroubleTick_Edit_Test<=======START=====]]>
+            </line>
+            <line>
+              <![CDATA[====>practice_createTroubleTick_Edit_Test<=======END=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practice_createTroubleTick_Edit_Test -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" started-at="2024-11-08T15:24:09 IST" name="configAM" finished-at="2024-11-08T15:24:11 IST" duration-ms="1521" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== Logout AM =====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3@399f45b1]" started-at="2024-11-08T15:24:11 IST" name="configAC" finished-at="2024-11-08T15:24:11 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==== close the Browser AC======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- practice_TroubleTicket.practice_createTroubleTicketTest_TC2_ContactEdit_TC3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
